@@ -1,2 +1,2 @@
 # IoT
-Sistem za merenje vibracija
+Vibration visualization system using Python Folium.
